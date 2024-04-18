@@ -5,7 +5,7 @@
 
 contact with me .\
 Email : rabbyshek1998@gmail.com .\
-Phone : 01724707680
+Phone : 01724707680 .\
 Portfolio: <a href="https://rabby-shek.github.io/MyResume/#" target="_blank">MD Rabby Shek Suvo</a>
 
 
