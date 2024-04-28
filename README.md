@@ -1,12 +1,7 @@
 <h1 align="center">Assalamualaikum 👋, I'm MD Rabby Shek Suvo</h1>
 <h3 align="center">A passionate Software developer Expert in JavaScript</h3>
 
-<h3>Currently working on Dynamic web page generation tool and moana (An ai controlled recruitement system).</h3>
-
-contact with me .\
 Email : rabbyshek1998@gmail.com .\
-Phone : 01724707680 .\
-Portfolio: <a href="https://rabby-shek.github.io/MyResume/#" target="_blank">MD Rabby Shek Suvo</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
