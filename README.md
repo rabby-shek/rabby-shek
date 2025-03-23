@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Rabby Shek Suvo</h1>
 <h3 align="center">A Software Engineer expert in JavaScript</h3>
 
-- 🔭 I’m currently working on **NovaScript**
+- 🔭 I’m currently working on **NovaScript** (Custom Script Language)
 
 - 👨‍💻 All of my projects are available at [https://rabby-shek.github.io/suvo-portfolio/](https://rabby-shek.github.io/suvo-portfolio/)
 
